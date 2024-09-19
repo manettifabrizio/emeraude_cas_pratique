@@ -1,6 +1,9 @@
 # Live Version
 https://emeraude-cas-pratique.vercel.app
 
+# Commands
+Supports touch controls and arrows.
+
 # Case Study
 
 ## Instructions
